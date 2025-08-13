@@ -62,4 +62,6 @@ This guide is intended solely for educational purposes. The information provided
 
 
 
-Update:  04.08.2025
+
+
+Update:  Wednesday 13 August 2025 url is reachable
