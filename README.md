@@ -72,4 +72,6 @@ This guide is intended solely for educational purposes. The information provided
 
 
 
-Update:  18 September Link is now responsive
+
+
+Update:  01 October
